@@ -24,6 +24,4 @@
     <br><br>
     📫 Reach out to me via <a href = "http://www.linkedin.com/in/deepali-daga">LinkedIn!</>
   </p>
-  
-  <img src="readme.gif" width="200" />
 </div>
