@@ -12,7 +12,7 @@
 
 
 <!-- About Me Section -->
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <p>
     👋 Hii, I'm Passionate about web development, machine learning, and exploring tech.
     <br><br>
