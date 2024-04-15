@@ -14,13 +14,13 @@
 <!-- About Me Section -->
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <p>
-    👋 Hii, I'm Passionate about web development, machine learning, and exploring tech.
+    👋 Hii,  I'm passionate about machine learning, web development, and exploring the fascinating world of technology.
     <br><br>
-    🚀 Love tackling challenges and creating inspiring projects.
+    🚀 As a developer, I love tackling challenges and creating practical solutions. My goal is to build projects that not only function but also inspire.
     <br><br>
-    🧠 Fascinated by AI and Machine Learning, always exploring new horizons.
+    🧠 Fascinated by the endless possibilities of AI and Machine Learning, I'm constantly exploring new horizons. Currently, I'm delving into Generative AI.
     <br><br>
-    🌟 Looking to collaborate and contribute to open-source projects.
+    🌟 Looking to collaborate on exciting projects and contribute to the open-source community. Let's connect, learn, and build together!
     <br><br>
     📫 Reach out to me via <a href = "http://www.linkedin.com/in/deepali-daga">LinkedIn!</>
   </p>
