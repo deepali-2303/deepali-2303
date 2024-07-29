@@ -14,11 +14,11 @@
 <!-- About Me Section -->
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <p>
-    👋 Hii,  I'm passionate about machine learning, web development, and exploring the fascinating world of technology.
+    👋 Hii,  I'm passionate about machine learning and exploring the fascinating world of technology.
     <br><br>
-    🚀 As a developer, I love tackling challenges and creating practical solutions. My goal is to build projects that not only function but also inspire.
+    🚀 As a developer, I love tackling challenges and creating practical solutions.
     <br><br>
-    🧠 Fascinated by the endless possibilities of AI and Machine Learning, I'm constantly exploring new horizons. Currently, I'm delving into Generative AI.
+    🧠 Fascinated by the endless possibilities of AI and Machine Learning, I'm constantly exploring new horizons. Currently, I'm delving deep into NLP and Generative AI.
     <br><br>
     🌟 Looking to collaborate on exciting projects and contribute to the open-source community. Let's connect, learn, and build together!
     <br><br>
